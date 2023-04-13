@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="http://localhost/Pustaka-booking2/css/stylebuku.css">
+<link rel="stylesheet" type="text/css" href="http://localhost/Tugas_2_dan_3/css/stylebuku.css">
 <section>
     <h1><?php echo $judul ?></h1>
     <h4>Nama</h4>
